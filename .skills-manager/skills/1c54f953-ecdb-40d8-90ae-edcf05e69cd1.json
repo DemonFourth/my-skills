@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1c54f953-ecdb-40d8-90ae-edcf05e69cd1",
+  "path": "minimax-pdf",
+  "path_key": "minimax-pdf",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/MiniMax-AI/skills/",
+    "subpath": "skills\\minimax-pdf",
+    "branch": null
+  }
+}

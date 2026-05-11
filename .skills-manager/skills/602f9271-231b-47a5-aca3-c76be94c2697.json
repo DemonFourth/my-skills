@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "602f9271-231b-47a5-aca3-c76be94c2697",
+  "path": "fullstack-dev",
+  "path_key": "fullstack-dev",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/MiniMax-AI/skills/",
+    "subpath": "skills\\fullstack-dev",
+    "branch": null
+  }
+}

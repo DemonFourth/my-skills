@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ad7c83dc-852f-443c-9ec9-389c25b61ebc",
+  "path": "ios-application-dev",
+  "path_key": "ios-application-dev",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/MiniMax-AI/skills/",
+    "subpath": "skills\\ios-application-dev",
+    "branch": null
+  }
+}

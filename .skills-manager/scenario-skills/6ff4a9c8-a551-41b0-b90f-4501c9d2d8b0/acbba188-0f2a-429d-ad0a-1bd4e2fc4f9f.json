@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "scenario_id": "6ff4a9c8-a551-41b0-b90f-4501c9d2d8b0",
+  "skill_id": "acbba188-0f2a-429d-ad0a-1bd4e2fc4f9f",
+  "sort_order": 26,
+  "tools": {
+    "claude_code": true,
+    "iflow": true,
+    "openclaw": true,
+    "opencode": true,
+    "qoder": true,
+    "qwen_code": true
+  }
+}
