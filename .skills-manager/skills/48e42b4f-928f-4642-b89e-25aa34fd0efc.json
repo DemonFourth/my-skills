@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "48e42b4f-928f-4642-b89e-25aa34fd0efc",
+  "path": "obsidian-markdown",
+  "path_key": "obsidian-markdown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

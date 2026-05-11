@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "55d958b0-de6f-4034-9388-29dbab108076",
+  "path": "plantuml-ascii",
+  "path_key": "plantuml-ascii",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

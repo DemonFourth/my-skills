@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d8de6c4-ccaa-470c-bfaf-4c25d7481529",
+  "path": "buddy-sings",
+  "path_key": "buddy-sings",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

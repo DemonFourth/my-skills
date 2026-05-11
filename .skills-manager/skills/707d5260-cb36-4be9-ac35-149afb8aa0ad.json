@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "707d5260-cb36-4be9-ac35-149afb8aa0ad",
+  "path": "vision-analysis",
+  "path_key": "vision-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

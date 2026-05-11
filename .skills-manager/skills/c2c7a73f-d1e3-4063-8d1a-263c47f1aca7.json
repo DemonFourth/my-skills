@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c2c7a73f-d1e3-4063-8d1a-263c47f1aca7",
+  "path": "mmx-cli",
+  "path_key": "mmx-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
