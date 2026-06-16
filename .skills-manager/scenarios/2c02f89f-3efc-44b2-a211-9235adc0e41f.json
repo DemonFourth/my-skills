@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "2c02f89f-3efc-44b2-a211-9235adc0e41f",
+  "name": "Obsidian",
+  "description": "Obsidian相关skill",
+  "icon": "book-open",
+  "sort_order": 999
+}

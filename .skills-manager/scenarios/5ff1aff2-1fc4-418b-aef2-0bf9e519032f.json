@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "5ff1aff2-1fc4-418b-aef2-0bf9e519032f",
+  "name": "VibeCoding",
+  "description": "VibeCoding 相关skills",
+  "icon": "code-2",
+  "sort_order": 999
+}

@@ -5,10 +5,13 @@
   "sort_order": 0,
   "tools": {
     "claude_code": true,
+    "codex": true,
+    "cursor": true,
     "iflow": true,
     "openclaw": true,
     "opencode": true,
     "qoder": true,
-    "qwen_code": true
+    "qwen_code": true,
+    "trae_cn": true
   }
 }

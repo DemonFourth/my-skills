@@ -4,7 +4,9 @@
   "path": "canvas-design",
   "path_key": "canvas-design",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "Obsidian"
+  ],
   "source": {
     "type": "git",
     "ref": "https://github.com/anthropics/skills/tree/main/skills",
